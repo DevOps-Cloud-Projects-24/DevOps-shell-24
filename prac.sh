@@ -1,4 +1,5 @@
 ADD(){
-   2+2
+  a=2+2
 }
-echo ${ADD}
+ADD
+echo a
