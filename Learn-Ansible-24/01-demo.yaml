@@ -1,4 +1,0 @@
-name: demo
-hosts: all
-tasks:
-  -ping:
